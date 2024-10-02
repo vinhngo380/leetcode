@@ -2,8 +2,8 @@
 Tracker for LeetCode progress between [Vinh Ngo](https://github.com/vinhngo380) and [Jon Chen](https://github.com/thisisjonchen)
 
 ## Current Scoreboard:
-[Vinh](): 0                              </br>
-[Jon](https://leetcode.com/u/ZeBosse/): 0
+#### [Vinh](): 0                              </br>
+#### [Jon](https://leetcode.com/u/ZeBosse/): 0
 
 ## Guidelines
 ### Points (Personal Scoring, out of 10)
@@ -16,9 +16,16 @@ Tracker for LeetCode progress between [Vinh Ngo](https://github.com/vinhngo380) 
 
 <hr/>
 
-For each, please attach the link to your latest submission,
-ex: https://leetcode.com/problems/two-sum/submissions/1409302707
+### ‼️For each:
 
+Attach the link to your latest submission,
+ex: https://leetcode.com/problems/two-sum/submissions/1409302707 <br/>
+
+File Name: Amount of points <br/>
+
+Depression: 100 <br/>
+ 
 <hr/>
 
-!(cat)[misc/cat.gif]
+Good Luck!\
+<img src="/misc/cat.gif" width="30%" height="30%"/>
