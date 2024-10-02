@@ -1,6 +1,6 @@
 class Solution:
     def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        # Below is TC O(n), SC O(n)
+        # Below is TC O(n), SC O(n).
         '''
         tempArr = [] # SC O(n)
         while head is not None:
