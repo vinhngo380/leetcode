@@ -23,7 +23,7 @@ class Solution:
         return dummy.next
 
 '''
-TLDR: Iterate up through both of the lists until we reach the end of a LL. Then we iterate through the rest of the other, linking it to the root.
+TLDR: Iter up through both lists until we reach the end of a LL. Then we iterate through the rest of the other, linking it to the root.
 
 TC O(n+m), have to go through both resulting in combined times.
 SC O(n+m), have to have a new LL, resulting in combined lengths.
