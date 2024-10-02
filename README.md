@@ -7,6 +7,12 @@ Tracker for LeetCode progress between [Vinh Ngo](https://github.com/vinhngo380) 
 
 ## Guidelines
 ### Points (Personal Scoring, out of 10)
+| Multipliers | Difficulty |
+| -------- | ------- |
+| x5 | Hard 🔴 |
+| x3 | Medium 🟡 |
+| x1 | Easy 🟢 |
+
 | Points | Reason |
 | -------- | ------- |
 | 10 | First Try (Correct + Optimal) |
