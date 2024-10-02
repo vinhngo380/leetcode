@@ -27,7 +27,7 @@ Tracker for LeetCode progress between [Vinh Ngo](https://github.com/vinhngo380) 
 
 File Name: LC Problem with Initials (ex: two_sum_JC, two_sum_VN) <br/>
 
-Commit Message: # of Points <br/>
+Commit Message: # of Points with Difficulty <br/>
  
 `Add (Brief) Explanations and Analyze Complexities (TC, SC)`
 
