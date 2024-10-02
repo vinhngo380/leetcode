@@ -26,7 +26,7 @@ class Solution:
         return prev
 
 '''
-TLDR: Use two pointer approach (curr and prev) and set curr.next to prev, while maintaining a temp variable to keep track of the next element in Linked List.
+TLDR: Use a two-pointer approach (curr and prev) and set curr.next to prev while maintaining a temp variable to keep track of the next element in Linked List.
 
 TC O(n)
 SC O(1)
