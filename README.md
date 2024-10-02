@@ -21,7 +21,7 @@ Tracker for LeetCode progress between [Vinh Ngo](https://github.com/vinhngo380) 
 Attach the link to your latest submission,
 ex: https://leetcode.com/problems/two-sum/submissions/1409302707 <br/>
 
-File Name: LC Number <br/>
+File Name: LC Problem <br/>
 
 Commit Message: # of Points <br/>
 
