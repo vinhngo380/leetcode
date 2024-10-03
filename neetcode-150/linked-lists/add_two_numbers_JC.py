@@ -15,7 +15,7 @@ class Solution:
         total = num1 + num2
 
         # get digits
-        stack = [] # SC O(9 * 100) = O (900) = O(1), TC O(100) = O(1)
+        stack = [] 
         while total >= 0: # >= to allow for only 0 to be added
             stack.append(total % 10)
             total //= 10
@@ -36,5 +36,5 @@ class Solution:
   TLDR: Iter through both LL, get sum, then use % and // with stack to get individual digits. Then, use the stack to create a new LL.
 
   TC O(n+m)
-  SC O(1)
+  SC O(n+m)
   '''
