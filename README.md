@@ -1,9 +1,10 @@
-# LeetCode 1v1 (Vinh vs. Jon) 🤺
-Tracker for LeetCode progress between [Vinh Ngo](https://github.com/vinhngo380) and [Jon Chen](https://github.com/thisisjonchen)
+# LeetCode 1v1v1 (Vinh vs. Jon vs. Micah) 🤺
+Tracker for LeetCode progress between [Vinh Ngo](https://github.com/vinhngo380), [Jon Chen](https://github.com/thisisjonchen), and [Micah Aldrich](https://github.com/Micah779)
 
 ## Current Scoreboard and Check-in:
-#### [Vinh](): 10 (10/1/24)                              </br>
-#### [Jon](https://leetcode.com/u/ZeBosse/): 38 (10/2/24)
+#### [Vinh](): 10 (10/1/24)                                  </br>
+#### [Jon](https://leetcode.com/u/ZeBosse/): 38 (10/2/24)    </br>
+#### [Micah](): 0 (10/3/24)
 
 ## Guidelines
 ### Points (Personal Scoring, out of 10)
