@@ -22,10 +22,10 @@ class Solution:
             if total == 0:
                 break
 
-        stack.reverse() # digits should now be in the right order to be added to LL, TC O(n)
+        stack.reverse() # digits should now be in the right order to be added to LL, TC O((n+m)%10) < O(n) <= O(m) < O(n+m)
 
         dummy = root = ListNode()
-        while stack: # TC O((n+m)%10) < O(n) <= O(m)
+        while stack: # TC O((n+m)%10) < O(n) <= O(m) < O(n+m)
             digit = stack.pop()
             root.next = ListNode(digit)
             root = root.next
