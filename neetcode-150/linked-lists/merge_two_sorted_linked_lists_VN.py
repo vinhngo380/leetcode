@@ -30,5 +30,8 @@ make a resulting LL then:
     keep going until one of the LL run out
 
 at the very end, add the other LL if there are remaining elements 
+
+runtime: O(n) -- we're only iterating through the LLs once
+SC: O(n) -- itll be a new list that uses both LLs lengths 
 '''
 
