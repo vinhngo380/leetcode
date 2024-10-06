@@ -16,11 +16,20 @@ Tracker for LeetCode progress between [Vinh Ngo](https://github.com/vinhngo380),
 
 | Points | Reason |
 | -------- | ------- |
+| +2 | BONUS ✨: Under 20 minutes |
 | 10 | First Try (Correct + Optimal) |
 | 7 | First Try (Correct) |
 | 4 | Multiple Tries/Redo (Correct) |
 | 2 | Broad Sense of Solution, but Cannot Translate to Code |
 | 1 | Failing to get Solution after Redos |
+
+<strong>Clarifications/Notes</strong>: 
+<ul>
+<li> A "Try" is a session of MAX 30 minutes. After that, the max is only 4 points.</li>
+<li> You may REDO any problem, but only for 4 points. However, the REDO is still eligible for a BONUS of +2 (maximum of 6 points total for the REDO). </li>
+<li>"Optimal" refers to the best possible time and space complexity available for the solution (going off of NeetCode/Solutions Tab).</li>
+<li>Remember to utilize the difficulty multiplier! You may be losing out on some well-deserved points! </li>
+</ul>
 
 <hr/>
 
