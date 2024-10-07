@@ -20,8 +20,10 @@ Tracker for LeetCode progress between [Vinh Ngo](https://github.com/vinhngo380),
 | 10 | First Try (Correct + Optimal) |
 | 7 | First Try (Correct) |
 | 4 | Multiple Tries/Redo (Correct) |
+| 3 | Justifable logic for correct answer, but no code |
 | 2 | Broad Sense of Solution, but Cannot Translate to Code |
-| 1 | Failing to get Solution after Redos |
+| 1 | Completely off the solution/no justification for logic |
+
 
 <strong>Clarifications/Notes</strong>: 
 <ul>
@@ -29,6 +31,7 @@ Tracker for LeetCode progress between [Vinh Ngo](https://github.com/vinhngo380),
 <li> You may REDO any problem, but only for 4 points. However, the REDO is still eligible for a BONUS of +2 (maximum of 6 points total for the REDO). </li>
 <li>"Optimal" refers to the best possible time and space complexity available for the solution (going off of NeetCode/Solutions Tab).</li>
 <li>Remember to utilize the difficulty multiplier! You may be losing out on some well-deserved points! </li>
+ <li>Being eligble for 2 points means that you should have a logically sound explanation (approved by the others), so make sure to mark it!</li>
 </ul>
 
 <hr/>
