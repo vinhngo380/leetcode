@@ -6,6 +6,13 @@ Tracker for LeetCode progress between [Vinh Ngo](https://github.com/vinhngo380),
 #### [Jon](https://leetcode.com/u/ZeBosse/): 169 (10/8/24)    </br>
 #### [Micah](): 53 (10/7/24)
 
+## Topics
+| Topics | Currently Working On | Comfort |
+| -------- | ------- | ------- |
+| Linked Lists | 👴🏿 Micah, 👨🏻‍🦲 Vinh | JC 🟡, VN -, MA -
+| 1-D DP | 👨🏻‍🍼 Jon |
+...
+
 ## Guidelines
 ### Points (Personal Scoring, out of 10)
 | Multipliers | Difficulty |
