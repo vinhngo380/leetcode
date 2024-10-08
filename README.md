@@ -7,9 +7,9 @@ Tracker for LeetCode progress between [Vinh Ngo](https://github.com/vinhngo380),
 #### [Micah](): 53 (10/7/24)
 
 ## Topics
-| Topics | Currently Working On | Comfort |
-| -------- | ------- | ------- |
-| Linked Lists | 👴🏿 Micah, 👨🏻‍🦲 Vinh | JC 🟡, VN -, MA -
+| Topics | Currently Working On |
+| -------- | ------- |
+| Linked Lists | 👴🏿 Micah, 👨🏻‍🦲 Vinh |
 | Trees | 👨🏻‍🍼 Jon |
 ...
 
