@@ -6,32 +6,25 @@
 
 class Solution:
     def mergeTwoLists(self, list1: Optional[ListNode], list2: Optional[ListNode]) -> Optional[ListNode]:
-        dummyHead = ListNode()
-        result = dummyHead
+        #find whichever one is less, add that to the new list
+        #if one of the lists dont have elements anymore, just add the
+        #rest on the new list
+        #TC: O(n) you have to go through 2 lists of O(n) size
+        #SC: O(1) you just make a dummyhead node
+        dummyHead = ListNode(0)
+        current = dummyHead
         while list1 and list2:
             if list1.val <= list2.val:
-                result.next = ListNode(list1.val)
-                list1 = list1.next
-            elif list2.val < list1.val:
-                result.next = ListNode(list2.val)
-                list2 = list2.next
-            result = result.next
+               current.next = list1
+               list1 = list1.next
+            else:
+               current.next = list2 
+               list2 = list2.next
+            current = current.next
 
         if list1:
-            result.next = list1   
-        if list2:
-            result.next = list2   
-        return dummyHead.next
+            current.next = list1
+        elif list2:
+            current.next = list2
 
-'''TLDR
-make a resulting LL then:
-    look at the first value of each LL, whichever one is less
-    add it to the resulting LL and only move that list
-    keep going until one of the LL run out
-
-at the very end, add the other LL if there are remaining elements 
-
-runtime: O(n) -- we're only iterating through the LLs once
-SC: O(n) -- itll be a new list that uses both LLs lengths 
-'''
-
+        return dummyHead.nex
