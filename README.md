@@ -10,7 +10,7 @@ Tracker for LeetCode progress between [Vinh Ngo](https://github.com/vinhngo380),
 | Topics | Currently Working On | Comfort |
 | -------- | ------- | ------- |
 | Linked Lists | 👴🏿 Micah, 👨🏻‍🦲 Vinh | JC 🟡, VN -, MA -
-| 1-D DP | 👨🏻‍🍼 Jon |
+| Trees | 👨🏻‍🍼 Jon |
 ...
 
 ## Guidelines
