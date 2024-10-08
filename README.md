@@ -3,7 +3,7 @@ Tracker for LeetCode progress between [Vinh Ngo](https://github.com/vinhngo380),
 
 ## Current Scoreboard and Check-in:
 #### [Vinh](): 96 (10/8/24)                                  </br>
-#### [Jon](https://leetcode.com/u/ZeBosse/): 169 (10/8/24)    </br>
+#### [Jon](https://leetcode.com/u/ZeBosse/): 181 (10/8/24)    </br>
 #### [Micah](): 53 (10/7/24)
 
 ## Topics
