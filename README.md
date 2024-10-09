@@ -3,7 +3,7 @@ Tracker for LeetCode progress between [Vinh Ngo](https://github.com/vinhngo380),
 
 ## Current Scoreboard and Check-in:
 #### [Vinh](): 105 (10/9/24)                                  </br>
-#### [Jon](https://leetcode.com/u/ZeBosse/): 181 (10/8/24)    </br>
+#### [Jon](https://leetcode.com/u/ZeBosse/): 193 (10/9/24)    </br>
 #### [Micah](): 53 (10/7/24)
 
 ## Topics
@@ -27,7 +27,7 @@ Tracker for LeetCode progress between [Vinh Ngo](https://github.com/vinhngo380),
 | 10 | First Try (Correct + Optimal) |
 | 7 | First Try (Correct) |
 | 4 | Multiple Tries/Redo (Correct) |
-| 3 | Justifiable Logic for Correct Answer, But Unfinished Code |
+| 3 | Justifiable Logic for Correct Answer, but Unfinished Code |
 | 2 | Broad Sense of Solution, but Cannot Translate to Code |
 | 1 | Completely Off The Solution/No Justification for Logic |
 
