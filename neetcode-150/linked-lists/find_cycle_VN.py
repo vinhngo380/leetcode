@@ -6,15 +6,21 @@
 
 class Solution:
     def hasCycle(self, head: Optional[ListNode]) -> bool:
-        slow, fast = head, head
-        while fast and fast.next:
+        #slow and fast pointer
+        #until the slow pointer is out of bounds
+        #iterate through until they have the same # and return
+        #TC: O(n) - it will only iterate through the whole
+        #LL once, but if not, it will just keep cycling until
+        #they are the same, which will still be O(cn) = O(n) time
+        #SC: O(1) - only dummy head
+        dummy = ListNode(0, head)
+        slow, fast = dummy, dummy
+        while slow and fast and fast.next:
             slow = slow.next
             fast = fast.next.next
             if slow == fast:
                 return True
-        return False
+        return False 
+
         
-#TLDR using floyd's cycle detection method, but if there's no cycle,
-#then fast values will be null first
-#TC: O(n) you have to go through the LL at worst 
-#SC: O(1) since only 2 vars are use
+
