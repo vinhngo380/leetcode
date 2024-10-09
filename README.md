@@ -35,7 +35,7 @@ Tracker for LeetCode progress between [Vinh Ngo](https://github.com/vinhngo380),
 <strong>Clarifications/Notes</strong>: 
 <ul>
 <li>A "Try" is a session of MAX 30 minutes. After that, the max is only 4 points.</li>
-<li>You may REDO any problem, but only for 4 points. However, the REDO is still eligible for a BONUS of +2 (maximum of 6 points total for the REDO). </li>
+<li>You may REDO any problem, but only for 4 points. However, the REDO is still eligible for a BONUS of +2 (maximum of 6 points total for the REDO). Recommended only after at least a week since your last attempt. </li>
 <li>"Optimal" refers to the best possible time and space complexity available for the solution (going off of NeetCode/Solutions Tab).</li>
 <li>Remember to utilize the difficulty multiplier! You may be losing out on some well-deserved points! </li>
  <li>Being eligble for 2 points means that you should have a logically sound explanation (approved by the others), so make sure to mark it!</li>
