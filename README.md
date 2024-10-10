@@ -2,7 +2,7 @@
 Tracker for LeetCode progress between [Vinh Ngo](https://github.com/vinhngo380), [Jon Chen](https://github.com/thisisjonchen), and [Micah Aldrich](https://github.com/Micah779)
 
 ## Current Scoreboard and Check-in:
-#### [Vinh](): 105 (10/9/24)                                  </br>
+#### [Vinh](): 107 (10/9/24)                                  </br>
 #### [Jon](https://leetcode.com/u/ZeBosse/): 221 (10/9/24)    </br>
 #### [Micah](): 53 (10/7/24)
 
