@@ -11,7 +11,7 @@ class Solution:
                 temp.append(words[i])
                 tempChars += len(words[i])
             else: # too many words/exceeds width
-                # first identify how many space justification
+                # first identify how many space justification.
                 toBeAdded = ""
                 if len(temp) > 1:
                     spaceBetween = "".join([" "] * ((abs(maxWidth-tempChars)) // (len(temp)-1)))
