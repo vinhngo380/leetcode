@@ -5,7 +5,7 @@ Tracker for LeetCode progress between [Vinh Ngo](https://github.com/vinhngo380),
 | | Points | Last Date | Days Missed | Currently Working On |
 | ------ | -------- | ------- | ------ | ------ |
 | Vinh 👨🏻‍🦲 | 117 | 10/16/24 | 0 | -
-| Jon 👨🏻‍🍼 | 318 | 10/16/24 | 0 | Prepping for Uber OA 😵‍💫
+| Jon 👨🏻‍🍼 | 348 | 10/16/24 | 0 | Prepping for Uber OA 😵‍💫
 | Micah 👴🏿 | 137 | 10/16/24 | 0 | Preparing for Roblox OA
 
 <strong>⚠️ Penalty = $1 x Days Missed</strong>
