@@ -23,6 +23,6 @@ class Solution:
 TLDR: Basically two sum with an extra pointer. Fix one pointer (x) and have l, r to iterate through everything between x+1 and len(nums) -1.
 We have some conditional checks to avoid duplicate, like check if nums[x-1] == nums[x] as well as the inner check nums[l] == nums[l-1].
 
-TC O(n)
+TC O(n^2)
 SC O(1)
 '''
