@@ -6,9 +6,14 @@
 #         self.right = right
 
 class Solution:
+    #use DFS to see which value is the highest
+    #but idk how to backtrack to the root node, maybe max() & recursion?
+    #TC: O(N) since you have to go through all the nodes
+    #SC: O(1) unless you count the stack frame
     def maxDepth(self, root: Optional[TreeNode]) -> int:
         #perform DFS
-        #:( idk how i couldnt figure this out
-        if not root:
+        if root is None: 
             return 0
-        return  1 + self.maxDepth(root.left) + self.maxDepth(root.right)
+        return max(1 + self.maxDepth(root.left), 1 + self.maxDepth(root.right))
+    
+
