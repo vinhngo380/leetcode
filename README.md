@@ -2,43 +2,14 @@
 Tracker for LeetCode progress between [Vinh Ngo](https://github.com/vinhngo380) and [Jon Chen](https://github.com/thisisjonchen)
 
 ## Current Scoreboard and Check-in:
-| | Points | Last Date | Days Missed | Currently Working On |
-| ------ | -------- | ------- | ------ | ------ |
-| Vinh 👨🏻‍🦲 | 0 | 9/3/25 | 0 | Neetcode 150
-| Jon 👨🏻‍🍼 | 0 | 9/3/25 | 0 | Blind 75
+| | Last Date | Days Missed | Currently Working On |
+| -------- | ------- | ------ | ------ |
+| Vinh 👨🏻‍🦲 | 9/3/25 | 0 | Neetcode 150
+| Jon 👨🏻‍🍼  | 9/3/25 | 0 | Blind 75
 
 <strong>⚠️ Penalty = $1 x Days Missed</strong>
 
 ## Guidelines
-### Points (Personal Scoring, out of 10)
-| Multipliers | Difficulty |
-| -------- | ------- |
-| x5 | Hard 🔴 |
-| x3 | Medium 🟡 |
-| x1 | Easy 🟢 |
-
-| Points | Reason |
-| -------- | ------- |
-| +2 | BONUS ✨: Under 20 minutes |
-| 10 | First Try (Correct + Optimal) |
-| 7 | First Try (Correct) |
-| 4 | Multiple Tries/Redo (Correct) |
-| 3 | Justifiable Logic for Correct Answer, but Unfinished Code |
-| 2 | Broad Sense of Solution, but Cannot Translate to Code |
-| 1 | Completely Off The Solution/No Justification for Logic |
-
-
-<strong>Clarifications/Notes</strong>: 
-<ul>
-<li>A "Try" is a session of MAX 30 minutes. After that, the max is only 4 points.</li>
-<li>You may REDO any problem, but only for 4 points. However, the REDO is still eligible for a BONUS of +2 (maximum of 6 points total for the REDO). Recommended only after at least a week since your last attempt. </li>
-<li>"Optimal" refers to the best possible time and space complexity available for the solution (going off of NeetCode/Solutions Tab).</li>
-<li>Remember to utilize the difficulty multiplier! You may be losing out on some well-deserved points! </li>
- <li>Being eligble for 2 points means that you should have a logically sound explanation (approved by the others), so make sure to mark it!</li>
-</ul>
-
-<hr/>
-
 ### ‼️For each:
 
 File Name: LC Problem with Initials (ex: two_sum_JC, two_sum_VN) <br/>
