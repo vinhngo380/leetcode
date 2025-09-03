@@ -1,4 +1,4 @@
-# LeetCode 1v1v1 (Vinh vs. Jon) 🤺
+# LeetCode 1v1 (Vinh vs. Jon) 🤺
 Tracker for LeetCode progress between [Vinh Ngo](https://github.com/vinhngo380) and [Jon Chen](https://github.com/thisisjonchen)
 
 ## Current Scoreboard and Check-in:
