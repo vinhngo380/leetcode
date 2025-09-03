@@ -1,16 +1,13 @@
 # LeetCode 1v1 (Vinh vs. Jon) 🤺
-Tracker for LeetCode progress between [Vinh Ngo](https://github.com/vinhngo380) and [Jon Chen](https://github.com/thisisjonchen)
+Tracker for LeetCode progress between [Vinh Ngo](https://github.com/vinhngo380) (vinhngo380) and [Jon Chen](https://github.com/thisisjonchen) (ZeBosse)
 
-## Current Scoreboard and Check-in:
-| | Last Date | Days Missed | Currently Working On |
-| -------- | ------- | ------ | ------ |
-| Vinh 👨🏻‍🦲 | 9/3/25 | 0 | Neetcode 150
-| Jon 👨🏻‍🍼  | 9/3/25 | 0 | Blind 75
+![LeetCode Stats](https://leetcard.jacoblin.cool/vinhngo380?theme=dark&font=Ubuntu&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/zebosse?theme=dark&font=Ubuntu&ext=heatmap)
 
 <strong>⚠️ Penalty = $1 x Days Missed</strong>
 
 ## Guidelines
-### ‼️For each:
+### ‼️For each (successful) LC submission, you must make a commit with the following:
 
 File Name: LC Problem with Initials (ex: two_sum_JC, two_sum_VN) <br/>
 
