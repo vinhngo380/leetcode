@@ -1,12 +1,11 @@
-# LeetCode 1v1v1 (Vinh vs. Jon vs. Micah) 🤺
-Tracker for LeetCode progress between [Vinh Ngo](https://github.com/vinhngo380), [Jon Chen](https://github.com/thisisjonchen), and [Micah Aldrich](https://github.com/Micah779)
+# LeetCode 1v1v1 (Vinh vs. Jon) 🤺
+Tracker for LeetCode progress between [Vinh Ngo](https://github.com/vinhngo380) and [Jon Chen](https://github.com/thisisjonchen)
 
 ## Current Scoreboard and Check-in:
 | | Points | Last Date | Days Missed | Currently Working On |
 | ------ | -------- | ------- | ------ | ------ |
-| Vinh 👨🏻‍🦲 | 142 | 10/16/24 | 0 | Neetcode 150
-| Jon 👨🏻‍🍼 | 464 | 10/18/24 | 0 | Prepping for Roblox OA 👹
-| Micah 👴🏿 | 169 | 10/16/24 | 0 | Preparing for Roblox OA
+| Vinh 👨🏻‍🦲 | 0 | 9/3/25 | 0 | Neetcode 150
+| Jon 👨🏻‍🍼 | 0 | 9/3/25 | 0 | Blind 75
 
 <strong>⚠️ Penalty = $1 x Days Missed</strong>
 
