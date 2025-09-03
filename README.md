@@ -4,7 +4,7 @@ Tracker for LeetCode progress between [Vinh Ngo](https://github.com/vinhngo380) 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/vinhngo380?theme=dark&font=Ubuntu&ext=heatmap)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/zebosse?theme=dark&font=Ubuntu&ext=heatmap)
 
-<strong>⚠️ Penalty = $1 x Days Missed</strong>
+<strong>⚠️ Penalty = $25 x Days Missed</strong>
 
 ## Guidelines
 ### ‼️For each (successful) LC submission, you must make a commit with the following:
